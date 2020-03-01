@@ -1,0 +1,19 @@
+.avatar {
+    width: 100px;
+    height: 100px;
+    border-radius: 80%;
+}
+
+.question-result {
+    width: 40px;
+    height: 40px;
+    border-radius: 80%;
+    margin-right: 0cm;
+}
+
+.card {
+    border-radius: 20px;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    width: 80%;
+}

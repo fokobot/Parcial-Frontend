@@ -1,0 +1,30 @@
+.principal {
+    margin: 0 auto;
+    margin-top: auto;
+    float: none;
+    margin-bottom: 10px;
+    margin-bottom: auto;
+}
+
+.separator {
+    margin-left: auto;
+}
+
+.tab {
+    margin-left: 0.3em
+}
+
+.card {
+    border-radius: 20px;
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+
+.arrows {
+    width: 40px;
+    height: 40px;
+}
+
+.left {
+    margin-left: auto;
+}
